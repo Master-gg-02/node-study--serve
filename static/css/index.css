@@ -1,0 +1,11 @@
+body {
+    position: relative;
+    text-align:center;
+    background:rgb(179, 243, 29);
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100px;
+    left:50%;
+}
